@@ -9,3 +9,6 @@ To prosta strona HTML/CSS przygotowana jako ćwiczenie z GitHub.
 ## Technologie
 - HTML5
 - CSS3
+
+## Link do strony
+https://kiont.github.io/pierwsze-repo/
